@@ -1,0 +1,30 @@
+# Results
+
+All generated plots and exported figures live in this folder.
+
+---
+
+## HX Forced Convection
+Plots added for the **Forced Convection Heat Exchanger** sizing study.
+
+---
+
+## Transient Furnace Heating Results
+
+**Key parameters**
+- **Biot Number (Bi):** 0.02  
+- **Time constant (τ):** 303.36 s  
+
+**Baseline furnace case**
+- **Furnace temperature:** 700 °C  
+- **Heating time:** 420.5463 s  
+- **Required furnace length:** 210.2731 m  
+
+**Higher temperature cases**
+- **Furnace temperature:** 850 °C  
+  - Heating time: 239.1864 s  
+  - New speed: 0.87912 m/s  
+
+- **Furnace temperature:** 1000 °C  
+  - Heating time: 169.7650 s  
+  - New speed: 1.2386 m/s  
