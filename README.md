@@ -82,6 +82,9 @@ Model transient heating of a metal strip moving through a furnace and determine:
 - Higher furnace temperature shifts the exponential response faster → allows higher strip speed for same target temperature.
 
 ---
+## License & Attribution
+© 2025 Khushi Piparava  
+For academic or commercial use, please reach out first: **piparavakhushi@gmail.com**
 
 ## How to Run
 
@@ -93,4 +96,5 @@ Model transient heating of a metal strip moving through a furnace and determine:
 ```matlab
 run("src/hx_forced_convection.m")
 run("src/furnace_transient.m")
+
 
